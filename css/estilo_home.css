@@ -1,0 +1,29 @@
+header{
+    background-color: blue;
+}
+
+article{
+    background-color: violet;
+}
+aside{
+    background-color: green;
+}
+
+
+
+
+#banner{
+    width: 70%;
+}
+#carta{
+    width: 20%;
+    height: 20%;
+}
+
+#cuerpo{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
